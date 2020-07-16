@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Nik!
+
 <a href="https://twitter.com/ThYpHoOn">
   <img align="left" alt="Nik on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -12,6 +13,10 @@
   <img align="left" alt="Nik on Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
 </a>
 
+<br/>
+
+### Status
+
 - ⌨️ Working at Bytro Labs as Senior Backend Developer (Java) - focusing on DevOps
 - 🌱 I’m currently learning Ansible
 - 💬 Ask me about iot, home automation, backend development, whatever
@@ -20,6 +25,7 @@
 - 🚀 SpaceX fanboy
 
 ### Skills
+
 <img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" alt="Spring" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
 <img align="left" alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
@@ -38,9 +44,10 @@
 <img align="left" alt="Jira" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" />
 
 
-<br>
+<br/>
 
 
 ### IDEs
+
 <img align="left" alt="VSCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 <img align="left" alt="IntelliJ Idea" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />
