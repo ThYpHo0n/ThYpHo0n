@@ -18,10 +18,9 @@
 ### Status
 
 - ⌨️ Working at Bytro Labs as Team Lead DevOps
-- 🌱 I’m currently learning Ansible
-- 💬 Ask me about iot, home automation, backend development, whatever
-- 💻 Working on Indie Arena Booth Online backend stuff
-- 🚗 Tesla driver
+- 🌱 I’m currently learning Terraform
+- 💬 Ask me about iot, (home) automation, backend development, cloud native, gcp, whatever
+- 🚗 Tesla owner
 - 🚀 SpaceX fanboy
 
 ### Skills
