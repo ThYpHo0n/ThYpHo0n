@@ -18,8 +18,8 @@
 ### Status
 
 - ⌨️ Working at Bytro Labs as Team Lead DevOps
-- 🌱 I’m currently learning Terraform
-- 💬 Ask me about iot, (home) automation, backend development, cloud native, gcp, whatever
+- 🌱 I’m currently learning remote first async communication
+- 💬 Ask me about Terraform, cloud-native, GCP, backend development, IoT, (home) automation, coffee brewing
 - 🚗 Tesla owner
 - 🚀 SpaceX fanboy
 
