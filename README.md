@@ -2,7 +2,8 @@
 
 <a href="https://www.linkedin.com/in/niklas-grebe-5a63a129/">
   <picture>
-    <img align="left" width="22px" alt="Nik on Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v13.21.0/icons/linkedin.svg">
+    <img align="left" width="22px" alt="Nik on Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v13.21.0/icons/linkedin.svg">
   </picture>
 </a>
 <a href="https://twitter.com/ThYpHoOn">
@@ -34,8 +35,10 @@
 
 ### Skills
 
-Java (no logo, thanks Oracle!)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg">
+  <img align="left" width="22px" alt="Ansible" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg">
+</picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ansible/000/fff">
   <img align="left" width="22px" alt="Ansible" src="https://cdn.simpleicons.org/ansible/000/000">
@@ -103,8 +106,8 @@ Java (no logo, thanks Oracle!)
 ### IDEs
 
 <picture>
-  <img align="left" width="22px" alt="VSCode" src="https://code.visualstudio.com/assets/images/code-stable.png">
+  <img align="left" width="22px" alt="VSCode" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg">
 </picture>
 <picture>
-  <img align="left" width="22px" alt="IntelliJ Idea" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/800px-IntelliJ_IDEA_Icon.svg.png">
+  <img align="left" width="22px" alt="IntelliJ Idea" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/intellijidea.svg">
 </picture>
