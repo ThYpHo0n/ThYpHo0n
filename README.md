@@ -99,15 +99,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jira/000/fff">
   <img align="left" width="22px" alt="Jira" src="https://cdn.simpleicons.org/jira/000/000">
 </picture>
-
-<br/>
-
-
-### IDEs
-
-<picture>
-  <img align="left" width="22px" alt="VSCode" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg">
-</picture>
-<picture>
-  <img align="left" width="22px" alt="IntelliJ Idea" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/intellijidea.svg">
-</picture>
