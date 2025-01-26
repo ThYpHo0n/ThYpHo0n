@@ -1,15 +1,14 @@
 ### Hi there 👋, I'm Nik!
 
+<a href="https://www.linkedin.com/in/niklas-grebe-5a63a129/">
+  <picture>
+    <img align="left" width="22px" alt="Nik on Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png">
+  </picture>
+</a>
 <a href="https://twitter.com/ThYpHoOn">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/000/fff">
     <img align="left" width="22px" alt="Nik on Twitter" src="https://cdn.simpleicons.org/x/000/000">
-  </picture>
-</a>
-<a href="https://www.linkedin.com/in/niklas-grebe-5a63a129/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/000/fff">
-    <img align="left" width="22px" alt="Nik on Linkedin" src="https://cdn.simpleicons.org/linkedin/000/000">
   </picture>
 </a>
 <a href="https://soundcloud.com/thyphoon">
