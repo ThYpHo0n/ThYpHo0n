@@ -1,16 +1,28 @@
 ### Hi there 👋, I'm Nik!
 
 <a href="https://twitter.com/ThYpHoOn">
-  <img align="left" alt="Nik on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/000/fff">
+    <img align="left" width="22px" alt="Nik on Twitter" src="https://cdn.simpleicons.org/x/000/000">
+  </picture>
 </a>
 <a href="https://www.linkedin.com/in/niklas-grebe-5a63a129/">
-  <img align="left" alt="Nik on Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/000/fff">
+    <img align="left" width="22px" alt="Nik on Linkedin" src="https://cdn.simpleicons.org/linkedin/000/000">
+  </picture>
 </a>
 <a href="https://soundcloud.com/thyphoon">
-  <img align="left" alt="Nik on Soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/soundcloud/000/fff">
+    <img align="left" width="22px" alt="Nik on Soundcloud" src="https://cdn.simpleicons.org/soundcloud/000/000">
+  </picture>
 </a>
 <a href="https://steamcommunity.com/id/ThYpHoOn/">
-  <img align="left" alt="Nik on Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/steam/000/fff">
+    <img align="left" width="22px" alt="Nik on Steam" src="https://cdn.simpleicons.org/steam/000/000">
+  </picture>
 </a>
 
 <br/>
@@ -23,28 +35,77 @@
 
 ### Skills
 
-<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-<img align="left" alt="Spring" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
-<img align="left" alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
-<img align="left" alt="Typescript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
-<img align="left" alt="NPM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />
-<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />
-<img align="left" alt="googlecloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" />
-<img align="left" alt="Jenkins" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />
-<img align="left" alt="Ansible" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" />
-<img align="left" alt="Gradle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" />
-<img align="left" alt="Debian" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/debian.svg" />
-<img align="left" alt="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
-<img align="left" alt="Kubernetes" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />
-<img align="left" alt="Helm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/helm.svg" />
-<img align="left" alt="Confluence" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/confluence.svg" />
-<img align="left" alt="Jira" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" />
+Java (no logo, thanks Oracle!)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ansible/000/fff">
+  <img align="left" width="22px" alt="Ansible" src="https://cdn.simpleicons.org/ansible/000/000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/docker/000/fff">
+  <img align="left" width="22px" alt="Docker" src="https://cdn.simpleicons.org/docker/000/000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/debian/000/fff">
+  <img align="left" width="22px" alt="Debian" src="https://cdn.simpleicons.org/debian/000/000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/spring/000/fff">
+  <img align="left" width="22px" alt="Spring" src="https://cdn.simpleicons.org/spring/000/000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/angular/000/fff">
+  <img align="left" width="22px" alt="Angular" src="https://cdn.simpleicons.org/angular/000/000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/000/fff">
+  <img align="left" width="22px" alt="Typescript" src="https://cdn.simpleicons.org/typescript/000/000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/npm/000/fff">
+  <img align="left" width="22px" alt="npm" src="https://cdn.simpleicons.org/npm/000/000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/webpack/000/fff">
+  <img align="left" width="22px" alt="Webpack" src="https://cdn.simpleicons.org/webpack/000/000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlecloud/000/fff">
+  <img align="left" width="22px" alt="googlecloud" src="https://cdn.simpleicons.org/googlecloud/000/000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jenkins/000/fff">
+  <img align="left" width="22px" alt="Jenkins" src="https://cdn.simpleicons.org/jenkins/000/000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gradle/000/fff">
+  <img align="left" width="22px" alt="Gradle" src="https://cdn.simpleicons.org/gradle/000/000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/kubernetes/000/fff">
+  <img align="left" width="22px" alt="Kubernetes" src="https://cdn.simpleicons.org/kubernetes/000/000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/helm/000/fff">
+  <img align="left" width="22px" alt="Helm" src="https://cdn.simpleicons.org/helm/000/000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/confluence/000/fff">
+  <img align="left" width="22px" alt="Confluence" src="https://cdn.simpleicons.org/confluence/000/000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jira/000/fff">
+  <img align="left" width="22px" alt="Jira" src="https://cdn.simpleicons.org/jira/000/000">
+</picture>
 
 <br/>
 
 
 ### IDEs
 
-<img align="left" alt="VSCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-<img align="left" alt="IntelliJ Idea" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />
+<picture>
+  <img align="left" width="22px" alt="VSCode" src="https://code.visualstudio.com/assets/images/code-stable.png">
+</picture>
+<picture>
+  <img align="left" width="22px" alt="IntelliJ Idea" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/800px-IntelliJ_IDEA_Icon.svg.png">
+</picture>
